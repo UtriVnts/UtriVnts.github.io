@@ -602,19 +602,24 @@ progress {
   height: auto;
 }
 
-.img-formacion {    /* UTRI */
+.img-proyectos {
+  width: 250px;
+  height: 250px;
+}
+
+.img-formacion {    
   width: 150px;
   height: 150px;
 }
 
-.img-habilidades {    /* UTRI */
+.img-habilidades {   
   width: 40px;
   height: 40px;
 }
 
-.custom-card-body {   /* UTRI */
-  width: 600px; /* Puedes ajustar este valor según tus necesidades */
-  height: 500px; /* O establece una altura fija si lo prefieres */
+.custom-card-body { 
+  width: 600px; 
+  height: 500px; 
 }
 
 .custom-shadow {
